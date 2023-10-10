@@ -1,0 +1,17 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/01-callback/02-challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Danny Haro <danny.dhs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
