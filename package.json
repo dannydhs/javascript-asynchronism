@@ -11,7 +11,9 @@
   ],
   "author": "Danny Haro <danny.dhs@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
   }
 }
